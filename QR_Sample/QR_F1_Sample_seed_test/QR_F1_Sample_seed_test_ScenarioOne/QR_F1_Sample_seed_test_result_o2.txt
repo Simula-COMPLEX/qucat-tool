@@ -1,0 +1,21 @@
+inputs	outputs	result
+001001000	{'0101': 151, '0011': 49}	PASS
+010110100	{'1011': 147, '0110': 53}	PASS
+111010010	{'1111': 56, '1010': 144}	PASS
+100101111	{'1000': 62, '0010': 138}	uof
+110000001	{'0001': 52, '1101': 148}	PASS
+011011111	{'0111': 160, '0000': 40}	PASS
+101110011	{'1010': 49, '0100': 151}	uof
+
+Dear Erlend,
+
+Thank you for your interest in our program for the summer internship at Simula research lab!
+
+After reviewing your application, we would like to invite you for an interview and speak to you more about the expectations for the position. Please inform us about your preferred time and date. The interview date should be no later than November 28.
+
+Looking forward to hearing from you!
+
+Regards,
+Xinyi Wang
+Simula Research Lab
+Complex Software Engineering
